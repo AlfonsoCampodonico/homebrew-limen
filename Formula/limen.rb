@@ -1,9 +1,9 @@
 class Limen < Formula
   desc "Small compiled language where I/O needs a capability"
   homepage "https://book.limen-lang.org"
-  url "https://github.com/AlfonsoCampodonico/homebrew-limen/releases/download/v0.7.4/limen-0.7.4-macos-arm64.tar.gz"
-  version "0.7.4"
-  sha256 "6329634353f11576a2436d0eacdd2cb962c799970220f7ca43a8ae27551d525a"
+  url "https://github.com/AlfonsoCampodonico/homebrew-limen/releases/download/v0.8.0/limen-0.8.0-macos-arm64.tar.gz"
+  version "0.8.0"
+  sha256 "b758faa7abb3e23b5be260fed057669689c43a00de9da6a77e1d7c5559b9f144"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on arch: :arm64
